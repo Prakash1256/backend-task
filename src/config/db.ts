@@ -11,6 +11,7 @@ const dbConfig: sql.config = {
     encrypt: true,
     trustServerCertificate: true
   }
+  
 };
 
 export const connectToDB = async () => {
