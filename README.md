@@ -36,15 +36,15 @@
 
 - Technology Stack
 
-- Programming Language: Python or C
+- Programming Language: Node.js, ExpressJs, 
 
-- API Integration: RESTful API with Python requests or C HttpClient
+- API Integration: RESTful API
 
 - Database: Microsoft SQL Server
 
 - Scheduling: Windows Task Scheduler
 
-- Logging: Python logging module or .NET logging framework
+- Logging: Nodejs logging module
 
 - Monitoring Tools: Windows Event Viewer or custom scripts
 
@@ -56,15 +56,9 @@
 
 - Access to IIFL MarketFeed API keys
 
-- Python 3.x (if Python is chosen) or a C compiler
-
 ## Steps:
 
 ## Clone the repository.
-
--Install dependencies (Python example):
-
-- pip install requests pyodbc
 
 - Configure config.json with API keys, scrips, and database connection details.
 
